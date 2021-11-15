@@ -15,7 +15,7 @@ To upload your data to Amazon S3, you must first create an Amazon S3 bucket in o
 
     -   Be unique across all of Amazon S3.
 
-    -   Be between 3 and 63 characters long.
+    -   Be between 3 and 63  characters long.
 
     -   Not contain uppercase characters.
 
