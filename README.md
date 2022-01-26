@@ -1,2 +1,2 @@
 # aws-labs-SAA
-Lab for SSA
+Labs for SSA
